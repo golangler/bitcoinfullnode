@@ -48,6 +48,11 @@ or
 
 bitcoind &
 
+or automatic at boot
+
+crontab -e
+[1] nano
+@reboot bitcoind -daemon
 
 
 ** If bitcoind is already started ** 
@@ -67,4 +72,3 @@ bitcoin-cli getinfo
 
 
 https://youtu.be/j3O3y5z5Lc8
-
