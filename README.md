@@ -66,5 +66,5 @@ bitcoind &
 bitcoin-cli getinfo
 
 
-https://youtu.be/hmbxPuTmDNE
+https://youtu.be/j3O3y5z5Lc8
 
